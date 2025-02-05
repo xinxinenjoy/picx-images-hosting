@@ -7,3 +7,4 @@ PicX is completely open source, and you can use it for free.
 
 If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
         随意修改点打东西
+2025.2.5更新，为了测试新新东西
